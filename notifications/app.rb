@@ -1,6 +1,6 @@
 require 'pusher'
 
-pusher = Pusher::Client.new app_id: '161388', key: 'e5ada95535f2e6ac0999', secret: '88bc28c999a3dc985ca3'
+pusher = Pusher::Client.new app_id: '', key: '', secret: ''
 
 # trigger on my_channel' an event called 'my_event' with this payload:
 
